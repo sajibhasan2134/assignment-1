@@ -4,19 +4,14 @@
     margin: 0;
     padding: 0;}
 
-body{font-family: "Azeret Mono", monospace;
-color: #0D1321;}
+body{font-family: "Azeret Mono", monospace; color: #0D1321;}
 
                    /* nav style */
 
 
-.nav{display: flex;
-justify-content: space-between; 
-margin: 50px 100px;}
+.nav{display: flex; justify-content: space-between; margin: 50px 100px;}
 
-.nav-title{
-    font-weight: 800;
-    font-size: 28px;}
+.nav-title{font-weight: 800; font-size: 28px;}
 
 .nav-btn{font-weight: 500;
 font-size: 20px;
